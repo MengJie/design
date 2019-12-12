@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-12T05:24:44.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="Nh-UbSd4zNDxueBa3SaO" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-12T05:28:44.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="3easeEpHUZJmewXwC_KA" version="12.3.9" type="github" pages="1">
   <diagram id="NSl42ijT1unhl8PalOJW" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="dnBPCVc1z-DArwMIPLX7-11" value="BGP Entity" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="360" y="120" width="160" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="dnBPCVc1z-DArwMIPLX7-12" value="WatchDog" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="80" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
