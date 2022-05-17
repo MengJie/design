@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T08:34:57.391Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="f4j1EF7kKsAZCkr8ij4D" version="18.0.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-17T08:38:16.546Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="inpBFmpInVmpsNYxvoDd" version="18.0.5" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1276" dy="769" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -407,11 +407,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HPJXsmdLudP8SGebZdml" name="Page-2">
-    <mxGraphModel dx="1676" dy="1169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1676" dy="1226" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GNxFSSs-TtCFd1PmESh9-11" value="AppA.profile:&lt;br&gt;&lt;br&gt;[settings]&lt;br&gt;arch=arm" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontFamily=Helvetica;fontSize=14;strokeColor=#9673a6;strokeWidth=1;fillColor=#e1d5e7;opacity=50;align=left;verticalAlign=top;spacingLeft=10;fontColor=#004C99;" vertex="1" parent="1">
+        <mxCell id="GNxFSSs-TtCFd1PmESh9-11" value="AppB.profile:&lt;br&gt;&lt;br&gt;[settings]&lt;br&gt;arch=arm" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontFamily=Helvetica;fontSize=14;strokeColor=#9673a6;strokeWidth=1;fillColor=#e1d5e7;opacity=50;align=left;verticalAlign=top;spacingLeft=10;fontColor=#004C99;" vertex="1" parent="1">
           <mxGeometry x="520" y="360" width="124" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GNxFSSs-TtCFd1PmESh9-9" value="AppA.profile:&lt;br&gt;&lt;br&gt;[settings]&lt;br&gt;arch=x86" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontFamily=Helvetica;fontSize=14;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;opacity=50;align=left;verticalAlign=top;fontColor=#004C99;spacingLeft=10;" vertex="1" parent="1">
