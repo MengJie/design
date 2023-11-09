@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T11:11:00.422Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="1gn7VcwpJD0olFDGzVFU" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T02:48:15.858Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="aAN8Du7QHUnCpuspDQgc" version="21.5.2" type="github">
   <diagram name="第 1 页" id="XtjZHDY6YG8CPg3rRUmW">
     <mxGraphModel dx="1006" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,9 @@
             <mxPoint x="300" y="800" as="sourcePoint" />
             <mxPoint x="570" y="680" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Uw7n4A-KT5UCPibrbGwA-12" value="Dispatcher:&lt;br&gt;chunk = self.conn.poll_read_body(...)&lt;br&gt;self.body_tx.try_send_data(chunk)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="820" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
